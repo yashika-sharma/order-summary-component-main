@@ -14,13 +14,15 @@ body {
 .App {
   text-align: center;
   margin: 0 auto;
-
+  width: 65%;
   display: flex;
-  box-shadow: 5px 5px 30px white;
 }
 .left {
-  background-image: url("../src/article-preview-component-master/images/drawers.jpg");
-  flex: 50%;
+  background: url("../src/article-preview-component-master/images/drawers.jpg");
+  flex: 40%;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  background-size: cover;
 }
 .main {
   display: flex;
@@ -28,33 +30,39 @@ body {
   position: relative;
   top: 50%;
   margin: 0 auto;
-  border-radius: 30px;
+  box-shadow: 5px 5px 10px 5px hsl(210, 46%, 95%);
 }
 .right {
-  flex: 50%;
+  flex: 60%;
   background-color: white;
-  padding: 20px;
   display: flex;
   flex-direction: column;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  font-weight: "700";
+  padding: 40px;
 }
 .heading {
-  color: hsl(214, 17%, 51%);
+  color: hsl(217, 19%, 35%);
   font-weight: 700;
   text-align: left;
+  font-size: 20px;
+  margin: 0 0;
 }
 .body {
-  font-weight: 500;
+  font-weight: "500";
   font-size: 13px;
-  color: hsl(212, 23%, 69%);
+  color: hsl(214, 17%, 51%);
   text-align: left;
 }
 .foot {
   display: flex;
   justify-content: space-between;
+  margin-top: 10px;
 }
 .avatar {
   border-radius: 50%;
-  height: 55px;
+  height: 50px;
 }
 .left-foot {
   display: flex;
@@ -62,4 +70,9 @@ body {
 .left-foot-data {
   display: flex;
   flex-direction: column;
+  align-items: center;
+}
+.line {
+  margin: 0 0;
+  font-size: 13px;
 }

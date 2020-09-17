@@ -25,8 +25,8 @@ const App = () => {
             <div className="left-foot">
               <img src={avatar} alt="avatar" className="avatar" />
               <div className="left-foot-data">
-                <p>Michelle Appleton</p>
-                <p>28 Jun 2020</p>
+                <p className="line">Michelle Appleton</p>
+                <p className="line">28 Jun 2020</p>
               </div>
             </div>
 
