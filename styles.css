@@ -147,7 +147,6 @@ button:hover {
 
 @media screen and (max-width: 375px) {
 	body {
-		background-color: black;
 		height: auto;
 	}
 
