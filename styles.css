@@ -19,14 +19,14 @@ body {
 	flex-direction: column;
 	width: 30%;
 	background-color: white;
-	border-radius: 1.2rem;
+	border-radius: 1rem;
 	box-shadow: 0.09rem 0.1rem 1.5rem #98a7ce;
 }
 
 .illustration {
 	width: 100%;
-	border-top-left-radius: 1.2rem;
-	border-top-right-radius: 1.2rem;
+	border-top-left-radius: 1rem;
+	border-top-right-radius: 1rem;
 }
 
 p,
@@ -41,14 +41,14 @@ a {
 
 	flex-direction: column;
 
-	padding: 1.8rem;
+	padding: 1.6rem;
 }
 
 .heading {
 	text-align: center;
 	font-weight: 700;
 	color: hsl(223, 47%, 23%);
-	margin: 0.8rem 0.2rem 1.2rem 0.2rem;
+	margin: 0.6rem 0rem 1rem 0rem;
 }
 .message {
 	color: hsl(224, 23%, 55%);
@@ -56,7 +56,7 @@ a {
 	text-align: center;
 	width: 95%;
 	align-self: center;
-	line-height: 1.8rem;
+	line-height: 1.6rem;
 	background-color: black;
 }
 
@@ -65,9 +65,9 @@ a {
 	border-radius: 0.8rem;
 	display: flex;
 	justify-content: space-between;
-	padding: 1rem 1.1rem;
+	padding: 0.8rem 0.9rem;
 	align-items: center;
-	margin: 1.7rem 1.2rem;
+	margin: 1.5rem 1rem;
 	flex-wrap: wrap;
 }
 
@@ -75,14 +75,14 @@ a {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	padding: 0.7rem 1.2rem;
+	padding: 0.5rem 1rem;
 	flex-wrap: wrap;
 }
 
 .left-heading {
 	font-size: 16px;
 	font-weight: 700;
-	margin: 0.2rem 0.2rem 0.4rem 0.2rem;
+	margin: 0rem 0rem 0.2rem 0rem;
 	color: hsl(223, 47%, 23%);
 }
 
@@ -93,8 +93,8 @@ a {
 }
 
 .music-icon {
-	height: 3rem;
-	width: 3rem;
+	height: 2.6rem;
+	width: 2.6rem;
 }
 
 .outer-left {
@@ -111,7 +111,7 @@ a.change {
 
 a.cancel {
 	text-align: center;
-	margin: 1.3rem 1.3rem;
+	margin: 1.1rem 1.1rem;
 	color: hsl(224, 23%, 55%);
 	font-size: 16px;
 	text-decoration: none;
@@ -128,10 +128,10 @@ a.change:hover {
 }
 
 button.submit {
-	margin: 0.9rem 1.2rem;
+	margin: 0.7rem 1rem;
 	background-color: hsl(245, 75%, 52%);
 	border-radius: 0.5rem;
-	padding: 1rem 0.7rem;
+	padding: 0.8rem 0.5rem;
 	display: flex;
 	align-items: center;
 	justify-content: center;
