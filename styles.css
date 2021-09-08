@@ -17,16 +17,16 @@ body {
 .box {
 	display: flex;
 	flex-direction: column;
-	width: 25%;
+	width: 30%;
 	background-color: white;
-	border-radius: 1rem;
-	box-shadow: 0.09rem 0.09rem 1rem #98a7ce;
+	border-radius: 1.2rem;
+	box-shadow: 0.09rem 0.1rem 1.5rem #98a7ce;
 }
 
 .illustration {
 	width: 100%;
-	border-top-left-radius: 1rem;
-	border-top-right-radius: 1rem;
+	border-top-left-radius: 1.2rem;
+	border-top-right-radius: 1.2rem;
 }
 
 p,
@@ -41,32 +41,32 @@ a {
 
 	flex-direction: column;
 
-	padding: 1.6rem;
+	padding: 1.8rem;
 }
 
 .heading {
 	text-align: center;
 	font-weight: 700;
 	color: hsl(223, 47%, 23%);
-	margin: 0.6rem 0rem 1rem 0rem;
+	margin: 0.8rem 0.2rem 1.2rem 0.2rem;
 }
 .message {
 	color: hsl(224, 23%, 55%);
-	font-size: 15px;
+	font-size: 16px;
 	text-align: center;
-	width: 90%;
+	width: 95%;
 	align-self: center;
-	line-height: 1.6rem;
+	line-height: 1.8rem;
 }
 
 .plan {
 	background-color: hsl(225, 100%, 98%);
-	border-radius: 0.7rem;
+	border-radius: 0.8rem;
 	display: flex;
 	justify-content: space-between;
-	padding: 0.8rem 0.9rem;
+	padding: 1rem 1.1rem;
 	align-items: center;
-	margin: 1.5rem 1rem;
+	margin: 1.7rem 1.2rem;
 	flex-wrap: wrap;
 }
 
@@ -74,14 +74,14 @@ a {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	padding: 0.5rem 1rem;
+	padding: 0.7rem 1.2rem;
 	flex-wrap: wrap;
 }
 
 .left-heading {
-	font-size: 15px;
+	font-size: 16px;
 	font-weight: 700;
-	margin: 0rem 0rem 0.2rem 0rem;
+	margin: 0.2rem 0.2rem 0.4rem 0.2rem;
 	color: hsl(223, 47%, 23%);
 }
 
@@ -92,8 +92,8 @@ a {
 }
 
 .music-icon {
-	height: 2.8rem;
-	width: 2.8rem;
+	height: 3rem;
+	width: 3rem;
 }
 
 .outer-left {
@@ -104,15 +104,15 @@ a {
 
 a.change {
 	color: hsl(245, 75%, 52%);
-	font-size: 14px;
+	font-size: 15px;
 	font-weight: 700;
 }
 
 a.cancel {
 	text-align: center;
-	margin: 1rem 1rem;
+	margin: 1.3rem 1.3rem;
 	color: hsl(224, 23%, 55%);
-	font-size: 15px;
+	font-size: 16px;
 	text-decoration: none;
 	font-weight: 700;
 }
@@ -127,16 +127,16 @@ a.change:hover {
 }
 
 button.submit {
-	margin: 0.7rem 1rem;
+	margin: 0.9rem 1.2rem;
 	background-color: hsl(245, 75%, 52%);
 	border-radius: 0.5rem;
-	padding: 0.8rem 0.5rem;
+	padding: 1rem 0.7rem;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	color: white;
 	border: none;
-	font-size: 13px;
+	font-size: 14px;
 	font-weight: 700;
 	box-shadow: 0rem 0.4rem 0.8rem #98a7ce;
 }
@@ -155,7 +155,7 @@ button:hover {
 	}
 
 	.box {
-		width: 85%;
+		width: 90%;
 	}
 	.plan,
 	.outer-left {
