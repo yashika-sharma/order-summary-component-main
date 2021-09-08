@@ -30,6 +30,7 @@ body {
 }
 
 p,
+h1,
 a {
 	font-family: "Red Hat Display", sans-serif;
 	margin: 0px;
@@ -45,7 +46,6 @@ a {
 
 .heading {
 	text-align: center;
-	font-size: 1.4rem;
 	font-weight: 700;
 	color: hsl(223, 47%, 23%);
 	margin: 0.6rem 0rem 1rem 0rem;

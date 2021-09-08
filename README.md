@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-card-solution-using-html-and-css-5dZoAWHJe](https://www.frontendmentor.io/solutions/order-summary-card-solution-using-html-and-css-5dZoAWHJe)
+- Live Site URL: [https://yashika-sharma.github.io/order-summary-component-main](https://yashika-sharma.github.io/order-summary-component-main)
 
 ### Built with
 
@@ -39,5 +39,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Yashika Sharma](https://github.com/yashika-sharma)
+- Frontend Mentor - [@yashika-sharma](https://www.frontendmentor.io/profile/yashika-sharma)
