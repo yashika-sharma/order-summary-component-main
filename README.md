@@ -41,3 +41,10 @@ Users should be able to:
 
 - Website - [Yashika Sharma](https://github.com/yashika-sharma)
 - Frontend Mentor - [@yashika-sharma](https://www.frontendmentor.io/profile/yashika-sharma)
+
+## Other Challenges
+- [stats-preview-card-component-main](https://github.com/yashika-sharma/stats-preview-card-component-main)
+- [social-proof-section-master](https://github.com/yashika-sharma/social-proof-section-master)
+- [huddle-landing-page-with-single-introductory-section-master](https://github.com/yashika-sharma/huddle-landing-page-with-single-introductory-section-master)
+- [time-tracking-dashboard-main](https://github.com/yashika-sharma/time-tracking-dashboard-main)
+- [order-summary-component-main](https://github.com/yashika-sharma/order-summary-component-main)
